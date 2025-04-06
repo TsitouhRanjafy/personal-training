@@ -9,4 +9,6 @@
 
 - [14 Git Things I Regret Not Knowing Earlier](https://levelup.gitconnected.com/14-git-things-i-regret-not-knowing-earlier-20956c192b2b)
 
+- [Most Used Design Patterns in Angular: Making Your Code Smarter](https://medium.com/@satvatiyasin/most-used-design-patterns-in-angular-making-your-code-smarter-3031035f4d76)
+
 
